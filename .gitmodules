@@ -1,0 +1,3 @@
+[submodule "lightstun"]
+	path = lightstun
+	url = https://github.com/wailay/lightstun
